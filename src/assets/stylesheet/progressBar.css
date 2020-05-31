@@ -1,0 +1,19 @@
+.progress-rate {
+	height: 100%;
+	background: linear-gradient(90deg, #004033 0%, #013c5f 100%);
+	border-radius: 0.2rem;
+	transition: width 0.3s ease-in;
+}
+
+.progress-bar {
+	width: 50rem;
+	height: 2rem;
+	border: 0.1rem solid #80828c;
+	border-radius: 0.4rem;
+	background-color: #e8e8e8;
+}
+
+.quest-done {
+	color: #458805;
+}
+
